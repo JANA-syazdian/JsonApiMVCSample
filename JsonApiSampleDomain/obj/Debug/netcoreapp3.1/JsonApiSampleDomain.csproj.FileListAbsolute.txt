@@ -1,0 +1,9 @@
+C:\Users\yazdian\source\repos\JsonApiSampleDomain\bin\Debug\netcoreapp3.1\JsonApiSampleDomain.deps.json
+C:\Users\yazdian\source\repos\JsonApiSampleDomain\bin\Debug\netcoreapp3.1\JsonApiSampleDomain.dll
+C:\Users\yazdian\source\repos\JsonApiSampleDomain\bin\Debug\netcoreapp3.1\JsonApiSampleDomain.pdb
+C:\Users\yazdian\source\repos\JsonApiSampleDomain\obj\Debug\netcoreapp3.1\JsonApiSampleDomain.csprojAssemblyReference.cache
+C:\Users\yazdian\source\repos\JsonApiSampleDomain\obj\Debug\netcoreapp3.1\JsonApiSampleDomain.AssemblyInfoInputs.cache
+C:\Users\yazdian\source\repos\JsonApiSampleDomain\obj\Debug\netcoreapp3.1\JsonApiSampleDomain.AssemblyInfo.cs
+C:\Users\yazdian\source\repos\JsonApiSampleDomain\obj\Debug\netcoreapp3.1\JsonApiSampleDomain.csproj.CoreCompileInputs.cache
+C:\Users\yazdian\source\repos\JsonApiSampleDomain\obj\Debug\netcoreapp3.1\JsonApiSampleDomain.dll
+C:\Users\yazdian\source\repos\JsonApiSampleDomain\obj\Debug\netcoreapp3.1\JsonApiSampleDomain.pdb
